@@ -4,11 +4,8 @@ package edu.unisabana.pizzafactory.model;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author cesarvefe
- */
-public class HorneadorPizzaDelgada {
+
+public class HorneadorPizzaDelgada implements HorneadorPizza {
 
     public void hornear() {
         Logger.getLogger(AmasadorPizzaDelgada.class.getName())
