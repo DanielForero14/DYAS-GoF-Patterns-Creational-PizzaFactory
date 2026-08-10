@@ -17,7 +17,7 @@ public class AmasadorPizzaDelgada implements AmasadorPizza {
         Logger.getLogger(AmasadorPizzaDelgada.class.getName())
                 .log(Level.INFO, "[@@] Amasando la pizza delgada con masa convencional.");
         
-        //CODIGO DE LLAMADO AL MICROCONTROLADOR
+        
         
     }
     

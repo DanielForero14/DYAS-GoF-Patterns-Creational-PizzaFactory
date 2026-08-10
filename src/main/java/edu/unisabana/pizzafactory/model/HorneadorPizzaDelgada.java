@@ -11,7 +11,7 @@ public class HorneadorPizzaDelgada implements HorneadorPizza {
         Logger.getLogger(AmasadorPizzaDelgada.class.getName())
             .log(Level.INFO, "[~~] Horneando la pizza delgada con masa convencional.");
 
-        //CODIGO DE LLAMADO AL MICROCONTROLADOR
+        
     }
     
 }
